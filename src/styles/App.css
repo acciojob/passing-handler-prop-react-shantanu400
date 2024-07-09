@@ -32,14 +32,14 @@ button {
     border-radius: 4px;
 }
 .btn-blue {
-    background: rgb(34, 193, 195);
+    background: rgb(239, 239, 239);
     color: black;
 }
 .btn-orange {
-    background: rgb(221, 112, 18);
+    background: rgb(239, 239, 239);
     color: black;
 }
 .btn-green {
-    background: rgb(44, 209, 88);
+    background: rgb(239, 239, 239);
     color: black;
 }
